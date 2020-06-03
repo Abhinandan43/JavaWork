@@ -1,3 +1,25 @@
+/*
+    Input Format
+
+The first line contains a single string denoting .
+The second line contains two space-separated integers denoting the respective values of  and .
+
+Constraints
+
+String  consists of English alphabetic letters (i.e., ) only.
+Output Format
+
+Print the substring in the inclusive range from  to .
+
+Sample Input
+
+Helloworld
+3 7
+Sample Output
+
+lowo    
+*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -14,5 +36,3 @@ public class Solution {
         System.out.println(S.substring(start,end));
     }
 }
-
-#capture 6
