@@ -1,3 +1,11 @@
+
+/*
+    Given two strings of lowercase English letters,  and , perform the following operations:
+
+Sum the lengths of  and .
+Determine if  is lexicographically larger than  (i.e.: does  come before  in the dictionary?).
+Capitalize the first letter in  and  and print them on a single line, separated by a space.
+*/
 import java.util.*;
 import java.io.*;
 public class Solution3june
@@ -22,4 +30,4 @@ public class Solution3june
   }
 }
 
-#Capture5
+
